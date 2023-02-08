@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-node
 
-This log was last generated on Mon, 06 Feb 2023 18:51:50 GMT and should not be manually modified.
+This log was last generated on Wed, 08 Feb 2023 05:56:22 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.16.0
+
+Wed, 08 Feb 2023 05:56:22 GMT
+
+### Minor changes
+
+- Allow adding custom loopback client in acquireTokenInteractive #5578 (v-derisen@microsoft.com)
 
 ## 1.15.0
 

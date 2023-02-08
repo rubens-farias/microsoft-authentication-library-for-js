@@ -2,6 +2,21 @@
   "name": "@azure/msal-node",
   "entries": [
     {
+      "date": "Wed, 08 Feb 2023 05:56:22 GMT",
+      "tag": "@azure/msal-node_v1.16.0",
+      "version": "1.16.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "v-derisen@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "956d66b35ff6553f90b975b152f6bdf16d8f6235",
+            "comment": "Allow adding custom loopback client in acquireTokenInteractive #5578"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 06 Feb 2023 18:51:50 GMT",
       "tag": "@azure/msal-node_v1.15.0",
       "version": "1.15.0",
